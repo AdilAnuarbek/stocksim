@@ -1,2 +1,0 @@
-# stocksim
-Stock Market Simulator
